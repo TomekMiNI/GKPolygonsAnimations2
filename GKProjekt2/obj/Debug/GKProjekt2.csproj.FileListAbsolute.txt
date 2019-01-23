@@ -1,0 +1,19 @@
+c:\users\euronet\documents\visual studio 2015\Projects\GKProjekt2\GKProjekt2\bin\Debug\GKProjekt2.exe.config
+c:\users\euronet\documents\visual studio 2015\Projects\GKProjekt2\GKProjekt2\bin\Debug\GKProjekt2.exe
+c:\users\euronet\documents\visual studio 2015\Projects\GKProjekt2\GKProjekt2\bin\Debug\GKProjekt2.pdb
+c:\users\euronet\documents\visual studio 2015\Projects\GKProjekt2\GKProjekt2\obj\Debug\GKProjekt2.csprojResolveAssemblyReference.cache
+c:\users\euronet\documents\visual studio 2015\Projects\GKProjekt2\GKProjekt2\obj\Debug\GKProjekt2.Properties.Resources.resources
+c:\users\euronet\documents\visual studio 2015\Projects\GKProjekt2\GKProjekt2\obj\Debug\GKProjekt2.csproj.GenerateResource.Cache
+c:\users\euronet\documents\visual studio 2015\Projects\GKProjekt2\GKProjekt2\obj\Debug\GKProjekt2.exe
+c:\users\euronet\documents\visual studio 2015\Projects\GKProjekt2\GKProjekt2\obj\Debug\GKProjekt2.pdb
+C:\Users\Euronet\Documents\Visual Studio 2015\Projects\GKProjekt2\GKProjekt2\obj\Debug\GKProjekt2.Polygons.resources
+C:\Users\Euronet\Documents\Visual Studio 2015\Projects\GKProjekt2 — kopia\GKProjekt2\bin\Debug\GKProjekt2.exe.config
+C:\Users\Euronet\Documents\Visual Studio 2015\Projects\GKProjekt2 — kopia\GKProjekt2\obj\Debug\GKProjekt2.exe
+C:\Users\Euronet\Documents\Visual Studio 2015\Projects\GKProjekt2 — kopia\GKProjekt2\obj\Debug\GKProjekt2.pdb
+C:\Users\Euronet\Documents\Visual Studio 2015\Projects\GKProjekt2 — kopia\GKProjekt2\bin\Debug\GKProjekt2.exe
+C:\Users\Euronet\Documents\Visual Studio 2015\Projects\GKProjekt2 — kopia\GKProjekt2\bin\Debug\GKProjekt2.pdb
+C:\Users\Euronet\Documents\Visual Studio 2015\Projects\GKProjekt2 — kopia\GKProjekt2\obj\Debug\GKProjekt2.Polygons.resources
+C:\Users\Euronet\Documents\Visual Studio 2015\Projects\GKProjekt2 — kopia\GKProjekt2\obj\Debug\GKProjekt2.Properties.Resources.resources
+C:\Users\Euronet\Documents\Visual Studio 2015\Projects\GKProjekt2 — kopia\GKProjekt2\obj\Debug\GKProjekt2.csproj.GenerateResource.Cache
+C:\Users\Euronet\Documents\Visual Studio 2015\Projects\GKProjekt2 — kopia\GKProjekt2\obj\Debug\GKProjekt2.csprojAssemblyReference.cache
+C:\Users\Euronet\Documents\Visual Studio 2015\Projects\GKProjekt2 — kopia\GKProjekt2\obj\Debug\GKProjekt2.csproj.CoreCompileInputs.cache
